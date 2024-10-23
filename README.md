@@ -1,1 +1,1 @@
-# TextDrawable
+see https://jitpack.io/#pwcong/TextDrawable

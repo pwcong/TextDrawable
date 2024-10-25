@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.textdrawabledemo"
+    namespace = "com.github.pwcong.textdrawabledemo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "me.pwcong.textdrawabledemo"
+        applicationId = "com.github.pwcong.textdrawabledemo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

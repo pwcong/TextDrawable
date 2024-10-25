@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.textdrawable"
+    namespace = "com.github.pwcong.textdrawable"
     compileSdk = 34
 
     defaultConfig {
